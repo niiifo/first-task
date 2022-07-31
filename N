@@ -1,0 +1,11 @@
+#AI TASK
+في البداية نقوم بتحميل Oracle VM VirtualBox
+ثم نقوم بتحميل ubunto 16.04
+بعد الدخول على VirtualBox نضغط على New ونمسي ROS-OS
+نظغط على start ونبحث عن Terminal لكتابة الاوامر
+ثم نضع اوامر التثبيت
+
+المصادر المستخدمة في تثبيت الروز
++ https://www.virtualbox.org/wiki/Downloads
++ https://releases.ubuntu.com/16.04/
++ https://s-m.com.sa/ros.txt
